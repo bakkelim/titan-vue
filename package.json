@@ -1,0 +1,23 @@
+{
+  "name": "titan-vue",
+  "version": "1.0.0",
+  "description": "Playing with Vue.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bakkelim/titan-vue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bakkelim/titan-vue/issues"
+  },
+  "homepage": "https://github.com/bakkelim/titan-vue#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
